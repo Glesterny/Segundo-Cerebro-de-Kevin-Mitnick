@@ -41,12 +41,14 @@ Alguns dos temas estudados incluem:
 
 ## Aviso
 
+
+Este repositório tem finalidade exclusivamente educacional e de pesquisa. Todo o conteúdo deve ser utilizado de forma ética, responsável e em conformidade com as leis e regulamentações aplicáveis.
+
+
 ## Acessando a Ferramenta
 
 https://notebooklm.google.com/notebook/f5b001a7-ce30-411b-be9b-9ae7d9e1f67b
 
-
-Este repositório tem finalidade exclusivamente educacional e de pesquisa. Todo o conteúdo deve ser utilizado de forma ética, responsável e em conformidade com as leis e regulamentações aplicáveis.
 
 ## Autor
 
